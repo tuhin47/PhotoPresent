@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EAB2EF"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+
+        android:text="Add New Registration"
+
+        android:textAlignment="center"
+        android:background="#452682"
+        android:textColor="#FFFFFF"
+        android:height="70dp"
+        android:id="@+id/textView5" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="120dp"
+
+        android:height="60dp"
+        android:inputType="number"
+        android:ems="10"
+
+        android:textAlignment="center"
+
+        android:id="@+id/enterregis"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:textColor="#FFFFFF"
+        android:background="#6C084B"
+        android:layout_marginTop="30dp"
+        android:id="@+id/addStudent"
+        android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>
