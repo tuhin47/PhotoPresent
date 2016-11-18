@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#85C1E9"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Set Duration of Class"
+        android:textAlignment="center"
+        android:layout_marginTop="40dp"
+        android:id="@+id/textView7" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:layout_marginTop="60dp"
+        android:text="1"
+        android:textAlignment="center"
+        android:ems="10"
+        android:id="@+id/classtime"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set Duration"
+        android:layout_marginTop="20dp"
+        android:textColor="#FFFFFF"
+        android:background="#283747"
+        android:id="@+id/setduration"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

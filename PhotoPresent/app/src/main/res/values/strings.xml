@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Photo Present</string>
+    <string name="tbtitle">Bhokachoda</string>
+    <string name="firstname">Photo Present</string>
+    <string name="coures">Course Titles</string>
+    <string name="attendancenam">Today\'s Attendance</string>
+    <string name="couresnames">Course Lists</string>
+    <string name="createcouses">Create Course</string>
+</resources>
