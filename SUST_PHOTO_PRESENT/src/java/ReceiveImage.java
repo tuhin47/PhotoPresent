@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 
+import defaultPackage.AddUser;
 import java.awt.BorderLayout;
 import java.io.File;
 import java.io.IOException;
