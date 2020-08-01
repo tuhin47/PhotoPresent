@@ -1,7 +1,7 @@
-# PhotoPresent-Project200-
+# PhotoPresent
 This is an android and web project. This project is for taking attendance by taking photos.Normal attendance 
 
 Environment:-
-1.Neatbeans Server
-2.Tomcat Server
-3.xampp: mysql database(testdb)
+- Neatbeans Server
+- Tomcat Server
+- xampp: mysql database(testdb)
